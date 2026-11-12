@@ -31,3 +31,5 @@ Level 3 — Apply modular arithmetic in algorithms
 - Count ways using modulo
 - Rabin–Karp rolling hash
 - Hash-table indexing
+
+can find sample test case for personal use and create your own edge cases to test so testing can lead to security enhancement to avoid unecessary use cases to enter the code

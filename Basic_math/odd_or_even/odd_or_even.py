@@ -1,12 +1,21 @@
 class Solution:
     def isEven (self, n):
+        # Validate input type
+        if isinstance(n, bool) or not isinstance(n, int):
+            raise TypeError("Input must be an integer")
+        
         return n%2 == 0
 
-obj = Solution()
-print(obj.isEven(0))
+value = input("Enter a number: ")
 
-#Bottle neck
-#optimal solution - complexity analysis - O(1) 
+try:
+    num = int(value)
+    obj = Solution()
+    print(obj.isEven(num))
+except ValueError:
+    print("Invalid input. Please enter a valid integer.")
+
+#Bottle neck - more conditional checks, more time complexity
+#optimal solution - complexity analysis - O(1) input grows operation constant time
 #math: modular arithmetic
-#edge case test
-#usecase - detect a property, cyclic track of a event
+#edge case test - negative numbers, zero, large integers

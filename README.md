@@ -23,5 +23,6 @@ Audience:
 
 **Expert: How to architect a Solution**
 
+Not just a problem but a usecase:
 
-
+Build the code -> Test cases -> security code -> usecases to think
