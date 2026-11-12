@@ -1,0 +1,12 @@
+Core operator: % (Modulo)
+Problem: Last Digit of \(a^b\)
+
+Why solve this question?
+
+This problem teaches you how to use modulo arithmetic 
+to calculate the last digit of an extremely large exponentiation 
+without calculating the actual power.
+
+Application:
+
+Last digit | Extract the last digit without converting to a string | Number processing, OTP display masking, numeric validation |
