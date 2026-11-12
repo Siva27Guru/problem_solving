@@ -4,13 +4,13 @@ Core Idea:
 
 Life -> Purpose -> Requirement & Needs -> Useful -> Utilized -> Productivity flow -> Structured and Organized
 
-mermaid```flowchart LR
+flowchart LR
     A[Life] --> B[Purpose]
     B --> C[Requirements & Needs]
     C --> D[Useful]
     D --> E[Utilized]
     E --> F[Productivity]
-    F --> G[Structured & Organized]```
+    F --> G[Structured & Organized]
 
 
 
