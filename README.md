@@ -5,6 +5,9 @@ Core Idea:
 Life -> Purpose -> Requirement & Needs -> Useful -> Utilized -> Productivity flow -> Structured and Organized
 
 
+
+
+
 Audience:
 
 **Beginner:  Solution for any Problem**
